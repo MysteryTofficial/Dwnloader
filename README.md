@@ -50,3 +50,6 @@ Legal Notice
 ⚠️ This app is intended only for downloading videos you own or content legally available for free.
 Downloading copyrighted material without permission may be illegal in your country.
 
+Here is how to download it:
+---------------------------
+Download it from the releases tab on the right or click on this link: https://github.com/MysteryTofficial/Dwnloader/releases/tag/Releases
