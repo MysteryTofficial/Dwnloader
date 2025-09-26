@@ -3,6 +3,9 @@ Dwnloader – YT-DLP GUI
 
 Current version: 1.0
 
+[Supported Sites](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md)
+
+
 Description
 -----------
 Dwnloader is a lightweight graphical application to download videos and audio from the internet.
