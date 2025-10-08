@@ -3,6 +3,8 @@ Dwnloader – YT-DLP GUI
 
 Current version: 1.0
 
+Known Problem: Install doesn't work!(working on it)
+
 [Supported Sites](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md)
 
 
