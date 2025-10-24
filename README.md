@@ -24,6 +24,7 @@ Features
 - Dark/Light theme support
 - Multilingual interface
 - Auto-update yt-dlp
+- System wide notifications if app is not in focus
 
 How to Use
 ----------
