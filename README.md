@@ -25,6 +25,7 @@ Features
 - Multilingual interface
 - Auto-update yt-dlp
 - System wide notifications if app is not in focus
+- Video format selector
 
 How to Use
 ----------
