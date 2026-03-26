@@ -1,7 +1,7 @@
 Dwnloader – YT-DLP GUI
 ===================================
 
-Current version: 1.1
+Current version: 2.0
 
 Known Problems: NONE! (Previous problems have been fixed!)
 
